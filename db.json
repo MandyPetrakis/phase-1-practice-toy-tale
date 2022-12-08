@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/disney/images/5/56/Profile_-_Rex.jpeg/revision/latest?cb=20190313050619",
+      "image": "https://static.wikia.nocookie.net/toystory72/images/5/5f/Rex.png/revision/latest?cb=20190805231951",
       "likes": 1
     },
     {
@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Zurg",
+      "image": "https://www.hlj.com/productimages/kyd/kyd22001_0.jpg",
+      "likes": 0,
+      "id": 9
     }
   ]
 }
